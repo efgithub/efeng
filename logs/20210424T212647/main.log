@@ -1,0 +1,174 @@
+[2021-04-24 21:26:47.958] [main] [info] update#setState idle
+[2021-04-24 21:26:49.866] [main] [error] file: Refused to load resource /snap/code/62/usr/share/code/resources/app/extensions/theme-seti/icons/seti.woff from file: protocol (original URL: file:///snap/code/62/usr/share/code/resources/app/extensions/theme-seti/icons/seti.woff)
+[2021-04-24 21:27:17.969] [main] [info] update#setState checking for updates
+[2021-04-24 21:27:18.046] [main] [info] update#setState idle
+[2021-04-24 21:28:24.049] [main] [info] update#setState checking for updates
+[2021-04-24 21:28:24.149] [main] [info] update#setState idle
+[2021-04-24 22:27:17.974] [main] [info] update#setState checking for updates
+[2021-04-24 22:27:18.293] [main] [info] update#setState idle
+[2021-04-24 23:27:17.985] [main] [info] update#setState checking for updates
+[2021-04-24 23:27:18.299] [main] [info] update#setState idle
+[2021-04-25 00:27:17.995] [main] [info] update#setState checking for updates
+[2021-04-25 00:27:18.417] [main] [info] update#setState idle
+[2021-04-25 01:27:18.090] [main] [info] update#setState checking for updates
+[2021-04-25 01:27:18.589] [main] [info] update#setState idle
+[2021-04-25 02:27:18.159] [main] [info] update#setState checking for updates
+[2021-04-25 02:27:18.613] [main] [info] update#setState idle
+[2021-04-25 03:27:18.202] [main] [info] update#setState checking for updates
+[2021-04-25 03:27:18.509] [main] [info] update#setState idle
+[2021-04-25 04:27:18.287] [main] [info] update#setState checking for updates
+[2021-04-25 04:27:18.712] [main] [info] update#setState idle
+[2021-04-25 05:27:18.375] [main] [info] update#setState checking for updates
+[2021-04-25 05:27:18.779] [main] [info] update#setState idle
+[2021-04-25 06:27:18.419] [main] [info] update#setState checking for updates
+[2021-04-25 06:27:18.767] [main] [info] update#setState idle
+[2021-04-25 07:27:18.494] [main] [info] update#setState checking for updates
+[2021-04-25 07:27:18.840] [main] [info] update#setState idle
+[2021-04-25 08:27:18.586] [main] [info] update#setState checking for updates
+[2021-04-25 08:27:18.920] [main] [info] update#setState idle
+[2021-04-25 09:27:18.643] [main] [info] update#setState checking for updates
+[2021-04-25 09:27:19.130] [main] [info] update#setState idle
+[2021-04-25 10:27:18.736] [main] [info] update#setState checking for updates
+[2021-04-25 10:27:19.051] [main] [info] update#setState idle
+[2021-04-25 11:27:18.840] [main] [info] update#setState checking for updates
+[2021-04-25 11:27:19.155] [main] [info] update#setState idle
+[2021-04-25 12:27:18.945] [main] [info] update#setState checking for updates
+[2021-04-25 12:27:19.419] [main] [info] update#setState idle
+[2021-04-25 13:27:18.993] [main] [info] update#setState checking for updates
+[2021-04-25 13:27:19.310] [main] [info] update#setState idle
+[2021-04-25 14:27:19.069] [main] [info] update#setState checking for updates
+[2021-04-25 14:27:19.381] [main] [info] update#setState idle
+[2021-04-25 15:27:19.138] [main] [info] update#setState checking for updates
+[2021-04-25 15:27:19.465] [main] [info] update#setState idle
+[2021-04-25 16:27:19.223] [main] [info] update#setState checking for updates
+[2021-04-25 16:27:19.521] [main] [info] update#setState idle
+[2021-04-25 17:27:19.305] [main] [info] update#setState checking for updates
+[2021-04-25 17:27:19.603] [main] [info] update#setState idle
+[2021-04-25 18:27:19.388] [main] [info] update#setState checking for updates
+[2021-04-25 18:27:19.734] [main] [info] update#setState idle
+[2021-04-25 19:27:19.489] [main] [info] update#setState checking for updates
+[2021-04-25 19:27:19.819] [main] [info] update#setState idle
+[2021-04-25 20:27:19.513] [main] [info] update#setState checking for updates
+[2021-04-25 20:27:19.998] [main] [info] update#setState idle
+[2021-04-25 21:27:19.518] [main] [info] update#setState checking for updates
+[2021-04-25 21:27:19.868] [main] [info] update#setState idle
+[2021-04-25 22:27:19.613] [main] [info] update#setState checking for updates
+[2021-04-25 22:27:19.629] [main] [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:6508)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)
+[2021-04-25 22:27:19.629] [main] [info] update#setState idle
+[2021-04-25 23:27:19.707] [main] [info] update#setState checking for updates
+[2021-04-25 23:27:19.716] [main] [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:6508)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)
+[2021-04-25 23:27:19.716] [main] [info] update#setState idle
+[2021-04-26 00:27:19.812] [main] [info] update#setState checking for updates
+[2021-04-26 00:27:19.822] [main] [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:6508)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)
+[2021-04-26 00:27:19.822] [main] [info] update#setState idle
+[2021-04-26 01:27:19.916] [main] [info] update#setState checking for updates
+[2021-04-26 01:27:19.924] [main] [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:6508)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)
+[2021-04-26 01:27:19.924] [main] [info] update#setState idle
+[2021-04-26 02:27:19.950] [main] [info] update#setState checking for updates
+[2021-04-26 02:27:19.957] [main] [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:6508)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)
+[2021-04-26 02:27:19.957] [main] [info] update#setState idle
+[2021-04-26 03:27:20.024] [main] [info] update#setState checking for updates
+[2021-04-26 03:27:20.031] [main] [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:6508)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)
+[2021-04-26 03:27:20.031] [main] [info] update#setState idle
+[2021-04-26 04:27:20.115] [main] [info] update#setState checking for updates
+[2021-04-26 04:27:20.122] [main] [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:6508)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)
+[2021-04-26 04:27:20.122] [main] [info] update#setState idle
+[2021-04-26 05:27:20.194] [main] [info] update#setState checking for updates
+[2021-04-26 05:27:20.201] [main] [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:6508)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)
+[2021-04-26 05:27:20.201] [main] [info] update#setState idle
+[2021-04-26 06:27:20.284] [main] [info] update#setState checking for updates
+[2021-04-26 06:27:20.290] [main] [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:6508)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)
+[2021-04-26 06:27:20.290] [main] [info] update#setState idle
+[2021-04-26 07:27:20.383] [main] [info] update#setState checking for updates
+[2021-04-26 07:27:20.391] [main] [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:6508)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)
+[2021-04-26 07:27:20.391] [main] [info] update#setState idle
+[2021-04-26 08:27:20.475] [main] [info] update#setState checking for updates
+[2021-04-26 08:27:20.482] [main] [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:6508)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)
+[2021-04-26 08:27:20.482] [main] [info] update#setState idle
+[2021-04-26 09:27:20.481] [main] [info] update#setState checking for updates
+[2021-04-26 09:27:20.487] [main] [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:6508)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)
+[2021-04-26 09:27:20.488] [main] [info] update#setState idle
+[2021-04-26 10:27:20.583] [main] [info] update#setState checking for updates
+[2021-04-26 10:27:20.589] [main] [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:6508)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)
+[2021-04-26 10:27:20.589] [main] [info] update#setState idle
+[2021-04-26 11:27:20.597] [main] [info] update#setState checking for updates
+[2021-04-26 11:27:20.603] [main] [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:6508)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)
+[2021-04-26 11:27:20.604] [main] [info] update#setState idle
+[2021-04-26 12:27:20.612] [main] [info] update#setState checking for updates
+[2021-04-26 12:27:20.618] [main] [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:6508)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)
+[2021-04-26 12:27:20.618] [main] [info] update#setState idle
+[2021-04-26 13:27:20.696] [main] [info] update#setState checking for updates
+[2021-04-26 13:27:20.703] [main] [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:6508)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)
+[2021-04-26 13:27:20.703] [main] [info] update#setState idle
+[2021-04-26 14:27:20.729] [main] [info] update#setState checking for updates
+[2021-04-26 14:27:20.736] [main] [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:6508)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)
+[2021-04-26 14:27:20.736] [main] [info] update#setState idle
+[2021-04-26 15:27:20.831] [main] [info] update#setState checking for updates
+[2021-04-26 15:27:20.837] [main] [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:6508)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)
+[2021-04-26 15:27:20.837] [main] [info] update#setState idle
+[2021-04-26 16:27:20.934] [main] [info] update#setState checking for updates
+[2021-04-26 16:27:20.941] [main] [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:6508)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)
+[2021-04-26 16:27:20.941] [main] [info] update#setState idle
+[2021-04-26 17:27:20.989] [main] [info] update#setState checking for updates
+[2021-04-26 17:27:20.995] [main] [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:6508)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)
+[2021-04-26 17:27:20.995] [main] [info] update#setState idle
+[2021-04-26 18:27:21.073] [main] [info] update#setState checking for updates
+[2021-04-26 18:27:21.080] [main] [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:6508)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)
+[2021-04-26 18:27:21.080] [main] [info] update#setState idle
+[2021-04-26 19:27:21.102] [main] [info] update#setState checking for updates
+[2021-04-26 19:27:21.111] [main] [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:6508)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)
+[2021-04-26 19:27:21.111] [main] [info] update#setState idle
+[2021-04-26 20:27:21.186] [main] [info] update#setState checking for updates
+[2021-04-26 20:27:21.190] [main] [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:6508)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)
+[2021-04-26 20:27:21.190] [main] [info] update#setState idle
+[2021-04-26 21:27:21.265] [main] [info] update#setState checking for updates
+[2021-04-26 21:27:21.269] [main] [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:6508)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)
+[2021-04-26 21:27:21.269] [main] [info] update#setState idle

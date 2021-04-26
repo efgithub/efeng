@@ -1,0 +1,1502 @@
+{
+    "telemetry.machineId": "dd13de7123cd333c4e3b4323fb39d9d45843622b2a7b9b14b5868d2a797bdc73",
+    "openedPathsList": {
+        "entries": [
+            {
+                "folderUri": "file:///home/charles/Nginx/achen"
+            },
+            {
+                "fileUri": "file:///home/charles/%E6%96%87%E4%BB%B6/achen/Sales/SalesRecord/recordsearch.aspx"
+            }
+        ]
+    },
+    "lastKnownMenubarData": {
+        "menus": {
+            "File": {
+                "items": [
+                    {
+                        "id": "workbench.action.files.newUntitledFile",
+                        "label": "新增檔案(&&N)"
+                    },
+                    {
+                        "id": "workbench.action.newWindow",
+                        "label": "開新視窗(&&W)"
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "workbench.action.files.openFile",
+                        "label": "開啟檔案(&&O)..."
+                    },
+                    {
+                        "id": "workbench.action.files.openFolder",
+                        "label": "開啟資料夾(&&F)..."
+                    },
+                    {
+                        "id": "workbench.action.openWorkspace",
+                        "label": "開啟工作區(&&K)..."
+                    },
+                    {
+                        "id": "submenuitem.27",
+                        "label": "開啟最近的檔案(&&R)",
+                        "submenu": {
+                            "items": [
+                                {
+                                    "id": "workbench.action.reopenClosedEditor",
+                                    "label": "重新開啟已關閉的編輯器(&&R)"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "fsPath": "/home/charles/Nginx/achen",
+                                        "external": "file:///home/charles/Nginx/achen",
+                                        "path": "/home/charles/Nginx/achen",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/home/charles/Nginx/achen"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "path": "/home/charles/文件/achen/Sales/SalesRecord/recordsearch.aspx",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/home/charles/文件/achen/Sales/SalesRecord/recordsearch.aspx"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "workbench.action.openRecent",
+                                    "label": "其他(&&M)..."
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "workbench.action.clearRecentFiles",
+                                    "label": "清除最近開啟的項目(&&C)"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "addRootFolder",
+                        "label": "將資料夾新增至工作區(&&D)..."
+                    },
+                    {
+                        "id": "workbench.action.saveWorkspaceAs",
+                        "label": "另存工作區為..."
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "workbench.action.files.save",
+                        "label": "儲存(&&S)",
+                        "enabled": false
+                    },
+                    {
+                        "id": "workbench.action.files.saveAs",
+                        "label": "另存新檔(&&A)...",
+                        "enabled": false
+                    },
+                    {
+                        "id": "saveAll",
+                        "label": "全部儲存(&&L)",
+                        "enabled": false
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "workbench.action.toggleAutoSave",
+                        "label": "自動儲存(&&U)"
+                    },
+                    {
+                        "id": "submenuitem.26",
+                        "label": "喜好設定(&&P)",
+                        "submenu": {
+                            "items": [
+                                {
+                                    "id": "workbench.action.openSettings",
+                                    "label": "設定(&&S)"
+                                },
+                                {
+                                    "id": "settings.filterByOnline",
+                                    "label": "線上服務設定(&&O)"
+                                },
+                                {
+                                    "id": "workbench.view.extensions",
+                                    "label": "延伸模組(&&E)"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "workbench.action.openGlobalKeybindings",
+                                    "label": "鍵盤快速鍵"
+                                },
+                                {
+                                    "id": "workbench.extensions.action.showRecommendedKeymapExtensions",
+                                    "label": "按鍵對應(&&K)"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "workbench.action.openSnippets",
+                                    "label": "使用者程式碼片段(&&S)"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "workbench.action.selectTheme",
+                                    "label": "色彩佈景主題(&&C)"
+                                },
+                                {
+                                    "id": "workbench.action.selectIconTheme",
+                                    "label": "檔案圖示佈景主題(&&I)"
+                                },
+                                {
+                                    "id": "workbench.action.selectProductIconTheme",
+                                    "label": "產品圖示佈景主題(&&P)"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "workbench.userDataSync.actions.turnOn",
+                                    "label": "開啟設定同步..."
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "workbench.action.files.revert",
+                        "label": "還原檔案(&&V)",
+                        "enabled": false
+                    },
+                    {
+                        "id": "workbench.action.closeActiveEditor",
+                        "label": "關閉編輯器(&&C)",
+                        "enabled": false
+                    },
+                    {
+                        "id": "workbench.action.closeFolder",
+                        "label": "關閉資料夾(&&F)"
+                    },
+                    {
+                        "id": "workbench.action.closeWindow",
+                        "label": "關閉視窗(&&E)"
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "workbench.action.quit",
+                        "label": "結束(&&X)"
+                    }
+                ]
+            },
+            "Edit": {
+                "items": [
+                    {
+                        "id": "undo",
+                        "label": "復原(&&U)"
+                    },
+                    {
+                        "id": "redo",
+                        "label": "取消復原(&&R)"
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "editor.action.clipboardCutAction",
+                        "label": "剪下(&&T)"
+                    },
+                    {
+                        "id": "editor.action.clipboardCopyAction",
+                        "label": "複製(&&C)"
+                    },
+                    {
+                        "id": "editor.action.clipboardPasteAction",
+                        "label": "貼上(&&P)"
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "actions.find",
+                        "label": "尋找(&&F)",
+                        "enabled": false
+                    },
+                    {
+                        "id": "editor.action.startFindReplaceAction",
+                        "label": "取代(&&R)",
+                        "enabled": false
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "workbench.action.findInFiles",
+                        "label": "在檔案中尋找(&&I)"
+                    },
+                    {
+                        "id": "workbench.action.replaceInFiles",
+                        "label": "在檔案中取代(&&I)"
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "editor.action.commentLine",
+                        "label": "切換行註解(&&T)"
+                    },
+                    {
+                        "id": "editor.action.blockComment",
+                        "label": "切換區塊註解(&&B)"
+                    },
+                    {
+                        "id": "editor.emmet.action.expandAbbreviation",
+                        "label": "Emmet: 展開縮寫(&&X)"
+                    }
+                ]
+            },
+            "Selection": {
+                "items": [
+                    {
+                        "id": "editor.action.selectAll",
+                        "label": "全選(&&S)"
+                    },
+                    {
+                        "id": "editor.action.smartSelect.expand",
+                        "label": "展開選取範圍(&&E)"
+                    },
+                    {
+                        "id": "editor.action.smartSelect.shrink",
+                        "label": "壓縮選取範圍(&&S)"
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "editor.action.copyLinesUpAction",
+                        "label": "將行向上複製(&&C)"
+                    },
+                    {
+                        "id": "editor.action.copyLinesDownAction",
+                        "label": "將行向下複製(&&P)"
+                    },
+                    {
+                        "id": "editor.action.moveLinesUpAction",
+                        "label": "上移一行(&&V)"
+                    },
+                    {
+                        "id": "editor.action.moveLinesDownAction",
+                        "label": "下移一行(&&L)"
+                    },
+                    {
+                        "id": "editor.action.duplicateSelection",
+                        "label": "重複選取項目(&&D)"
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "editor.action.insertCursorAbove",
+                        "label": "在上方新增游標(&&A)"
+                    },
+                    {
+                        "id": "editor.action.insertCursorBelow",
+                        "label": "在下方新增游標(&&D)"
+                    },
+                    {
+                        "id": "editor.action.insertCursorAtEndOfEachLineSelected",
+                        "label": "在行尾新增游標(&&U)"
+                    },
+                    {
+                        "id": "editor.action.addSelectionToNextFindMatch",
+                        "label": "新增下一個項目(&&N)"
+                    },
+                    {
+                        "id": "editor.action.addSelectionToPreviousFindMatch",
+                        "label": "新增上一個項目(&&R)"
+                    },
+                    {
+                        "id": "editor.action.selectHighlights",
+                        "label": "選取所有項目(&&O)"
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "workbench.action.toggleMultiCursorModifier",
+                        "label": "切換到 Ctrl+ 按一下啟用多重游標"
+                    },
+                    {
+                        "id": "editor.action.toggleColumnSelection",
+                        "label": "資料行選取模式(&&S)"
+                    }
+                ]
+            },
+            "View": {
+                "items": [
+                    {
+                        "id": "workbench.action.showCommands",
+                        "label": "命令選擇區(&&C)..."
+                    },
+                    {
+                        "id": "workbench.action.openView",
+                        "label": "開啟檢視(&&O)..."
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "submenuitem.17",
+                        "label": "外觀(&&A)",
+                        "submenu": {
+                            "items": [
+                                {
+                                    "id": "workbench.action.toggleFullScreen",
+                                    "label": "全螢幕(&&F)"
+                                },
+                                {
+                                    "id": "workbench.action.toggleZenMode",
+                                    "label": "Zen Mode"
+                                },
+                                {
+                                    "id": "workbench.action.toggleCenteredLayout",
+                                    "label": "置中配置(&C)"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "workbench.action.toggleMenuBar",
+                                    "label": "顯示功能表列(&&B)",
+                                    "checked": true
+                                },
+                                {
+                                    "id": "workbench.action.toggleSidebarVisibility",
+                                    "label": "顯示提要欄位(&&S)",
+                                    "checked": true
+                                },
+                                {
+                                    "id": "workbench.action.toggleStatusbarVisibility",
+                                    "label": "顯示狀態列(&&T)",
+                                    "checked": true
+                                },
+                                {
+                                    "id": "workbench.action.toggleActivityBarVisibility",
+                                    "label": "顯示活動列(&&A)",
+                                    "checked": true
+                                },
+                                {
+                                    "id": "workbench.action.togglePanel",
+                                    "label": "顯示面板(&&P)",
+                                    "checked": true
+                                },
+                                {
+                                    "id": "workbench.action.toggleEditorVisibility",
+                                    "label": "顯示編輯器區域(&&E)",
+                                    "checked": true
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "workbench.action.toggleSidebarPosition",
+                                    "label": "將提要欄位右移(&&M)"
+                                },
+                                {
+                                    "id": "workbench.action.positionPanelRight",
+                                    "label": "向右移動面板"
+                                },
+                                {
+                                    "id": "workbench.action.positionPanelLeft",
+                                    "label": "向左移動面板"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "workbench.action.zoomIn",
+                                    "label": "放大(&&Z)"
+                                },
+                                {
+                                    "id": "workbench.action.zoomOut",
+                                    "label": "縮小(&&Z)"
+                                },
+                                {
+                                    "id": "workbench.action.zoomReset",
+                                    "label": "重設縮放(&&R)"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": "submenuitem.24",
+                        "label": "編輯器版面配置(&&L)",
+                        "submenu": {
+                            "items": [
+                                {
+                                    "id": "workbench.action.splitEditorUp",
+                                    "label": "向上分割(&&U)"
+                                },
+                                {
+                                    "id": "workbench.action.splitEditorDown",
+                                    "label": "向下分割(&&D)"
+                                },
+                                {
+                                    "id": "workbench.action.splitEditorLeft",
+                                    "label": "分割左側(&&L)"
+                                },
+                                {
+                                    "id": "workbench.action.splitEditorRight",
+                                    "label": "向右分割(&&R)"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "workbench.action.editorLayoutSingle",
+                                    "label": "單一(&&S)"
+                                },
+                                {
+                                    "id": "workbench.action.editorLayoutTwoColumns",
+                                    "label": "兩個資料列(&&T)"
+                                },
+                                {
+                                    "id": "workbench.action.editorLayoutThreeColumns",
+                                    "label": "三行(&&H)"
+                                },
+                                {
+                                    "id": "workbench.action.editorLayoutTwoRows",
+                                    "label": "兩列(&&W)"
+                                },
+                                {
+                                    "id": "workbench.action.editorLayoutThreeRows",
+                                    "label": "三列(&&R)"
+                                },
+                                {
+                                    "id": "workbench.action.editorLayoutTwoByTwoGrid",
+                                    "label": "格線 (2x2)(&&G)"
+                                },
+                                {
+                                    "id": "workbench.action.editorLayoutTwoRowsRight",
+                                    "label": "向右兩列(&&O)"
+                                },
+                                {
+                                    "id": "workbench.action.editorLayoutTwoColumnsBottom",
+                                    "label": "兩個資料行置底(&&C)"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "workbench.action.toggleEditorGroupLayout",
+                                    "label": "翻轉版面配置(&&L)"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "workbench.view.explorer",
+                        "label": "檔案總管(&&E)"
+                    },
+                    {
+                        "id": "workbench.view.search",
+                        "label": "搜尋(&&S)"
+                    },
+                    {
+                        "id": "workbench.view.scm",
+                        "label": "SCM(&&C)"
+                    },
+                    {
+                        "id": "workbench.view.debug",
+                        "label": "執行(&&R)"
+                    },
+                    {
+                        "id": "workbench.view.extensions",
+                        "label": "延伸模組(&&X)"
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "workbench.actions.view.problems",
+                        "label": "問題(&&P)"
+                    },
+                    {
+                        "id": "workbench.action.output.toggleOutput",
+                        "label": "輸出(&&O)"
+                    },
+                    {
+                        "id": "workbench.debug.action.toggleRepl",
+                        "label": "偵錯主控台(&&B)"
+                    },
+                    {
+                        "id": "workbench.action.terminal.toggleTerminal",
+                        "label": "終端(&&T)"
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "editor.action.toggleWordWrap",
+                        "label": "切換自動換行(&&W)",
+                        "enabled": false
+                    },
+                    {
+                        "id": "editor.action.toggleMinimap",
+                        "label": "顯示縮圖(&&M)",
+                        "checked": true
+                    },
+                    {
+                        "id": "breadcrumbs.toggle",
+                        "label": "顯示階層連結(&&B)",
+                        "checked": true
+                    },
+                    {
+                        "id": "editor.action.toggleRenderWhitespace",
+                        "label": "轉譯空白字元(&&R)",
+                        "checked": true
+                    },
+                    {
+                        "id": "editor.action.toggleRenderControlCharacter",
+                        "label": "轉譯控制字元(&&C)"
+                    }
+                ]
+            },
+            "Go": {
+                "items": [
+                    {
+                        "id": "workbench.action.navigateBack",
+                        "label": "上一步(&&B)"
+                    },
+                    {
+                        "id": "workbench.action.navigateForward",
+                        "label": "轉寄(&&F)",
+                        "enabled": false
+                    },
+                    {
+                        "id": "workbench.action.navigateToLastEditLocation",
+                        "label": "上次編輯位置(&&L)"
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "submenuitem.29",
+                        "label": "切換編輯器(&&E)",
+                        "submenu": {
+                            "items": [
+                                {
+                                    "id": "workbench.action.nextEditor",
+                                    "label": "下一個編輯器(&&N)"
+                                },
+                                {
+                                    "id": "workbench.action.previousEditor",
+                                    "label": "上一個編輯器(&&P)"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "workbench.action.openNextRecentlyUsedEditor",
+                                    "label": "下一個使用過的編輯器(&&N)"
+                                },
+                                {
+                                    "id": "workbench.action.openPreviousRecentlyUsedEditor",
+                                    "label": "上一個使用的編輯器(&&P)"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "workbench.action.nextEditorInGroup",
+                                    "label": "群組中的下一個編輯器(&&N)"
+                                },
+                                {
+                                    "id": "workbench.action.previousEditorInGroup",
+                                    "label": "群組中的上一個編輯器(&&P)"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "workbench.action.openNextRecentlyUsedEditorInGroup",
+                                    "label": "群組中下一個已使用的編輯器(&&N)"
+                                },
+                                {
+                                    "id": "workbench.action.openPreviousRecentlyUsedEditorInGroup",
+                                    "label": "群組中上一個已使用的編輯器(&&P)"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": "submenuitem.30",
+                        "label": "切換群組(&&G)",
+                        "submenu": {
+                            "items": [
+                                {
+                                    "id": "workbench.action.focusFirstEditorGroup",
+                                    "label": "群組 1(&&1)"
+                                },
+                                {
+                                    "id": "workbench.action.focusSecondEditorGroup",
+                                    "label": "群組 2(&&2)"
+                                },
+                                {
+                                    "id": "workbench.action.focusThirdEditorGroup",
+                                    "label": "群組 3(&&3)",
+                                    "enabled": false
+                                },
+                                {
+                                    "id": "workbench.action.focusFourthEditorGroup",
+                                    "label": "群組 4(&&4)",
+                                    "enabled": false
+                                },
+                                {
+                                    "id": "workbench.action.focusFifthEditorGroup",
+                                    "label": "群組 5(&&5)",
+                                    "enabled": false
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "workbench.action.focusNextGroup",
+                                    "label": "下一個群組(&&N)",
+                                    "enabled": false
+                                },
+                                {
+                                    "id": "workbench.action.focusPreviousGroup",
+                                    "label": "上一個群組(&&P)",
+                                    "enabled": false
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "workbench.action.focusLeftGroup",
+                                    "label": "群組置左(&&L)",
+                                    "enabled": false
+                                },
+                                {
+                                    "id": "workbench.action.focusRightGroup",
+                                    "label": "群組置右(&&R)",
+                                    "enabled": false
+                                },
+                                {
+                                    "id": "workbench.action.focusAboveGroup",
+                                    "label": "以上群組(&&A)",
+                                    "enabled": false
+                                },
+                                {
+                                    "id": "workbench.action.focusBelowGroup",
+                                    "label": "向下分組(&&B)",
+                                    "enabled": false
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "workbench.action.quickOpen",
+                        "label": "移至檔案(&&F)..."
+                    },
+                    {
+                        "id": "workbench.action.showAllSymbols",
+                        "label": "前往工作區中的符號(&&W)..."
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "workbench.action.gotoSymbol",
+                        "label": "前往編輯器中的符號(&&S)..."
+                    },
+                    {
+                        "id": "editor.action.revealDefinition",
+                        "label": "移至定義(&&D)",
+                        "enabled": false
+                    },
+                    {
+                        "id": "editor.action.revealDeclaration",
+                        "label": "前往宣告(&&D)",
+                        "enabled": false
+                    },
+                    {
+                        "id": "editor.action.goToTypeDefinition",
+                        "label": "前往類型定義(&&T)",
+                        "enabled": false
+                    },
+                    {
+                        "id": "editor.action.goToImplementation",
+                        "label": "前往實作(&&I)",
+                        "enabled": false
+                    },
+                    {
+                        "id": "editor.action.goToReferences",
+                        "label": "前往參考(&&R)",
+                        "enabled": false
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "workbench.action.gotoLine",
+                        "label": "前往行/資料行(&&L)..."
+                    },
+                    {
+                        "id": "editor.action.jumpToBracket",
+                        "label": "前往括弧(&&B)"
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "editor.action.marker.nextInFiles",
+                        "label": "下一個問題(&&P)"
+                    },
+                    {
+                        "id": "editor.action.marker.prevInFiles",
+                        "label": "前一個問題(&&P)"
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "editor.action.dirtydiff.next",
+                        "label": "下個變更(&&C)"
+                    },
+                    {
+                        "id": "editor.action.dirtydiff.previous",
+                        "label": "上個變更(&&C)"
+                    }
+                ]
+            },
+            "Run": {
+                "items": [
+                    {
+                        "id": "workbench.action.debug.start",
+                        "label": "啟動偵錯(&&S)"
+                    },
+                    {
+                        "id": "workbench.action.debug.run",
+                        "label": "執行但不進行偵錯(&&W)"
+                    },
+                    {
+                        "id": "workbench.action.debug.stop",
+                        "label": "停止偵錯(&&S)",
+                        "enabled": false
+                    },
+                    {
+                        "id": "workbench.action.debug.restart",
+                        "label": "重新啟動偵錯(&&R)",
+                        "enabled": false
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "workbench.action.debug.configure",
+                        "label": "開啟組態(&&C)",
+                        "enabled": false
+                    },
+                    {
+                        "id": "debug.addConfiguration",
+                        "label": "新增組態(&&D)..."
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "workbench.action.debug.stepOver",
+                        "label": "不進入函式(&&O)",
+                        "enabled": false
+                    },
+                    {
+                        "id": "workbench.action.debug.stepInto",
+                        "label": "逐步執行(&&I)",
+                        "enabled": false
+                    },
+                    {
+                        "id": "workbench.action.debug.stepOut",
+                        "label": "跳離函式(&&U)",
+                        "enabled": false
+                    },
+                    {
+                        "id": "workbench.action.debug.continue",
+                        "label": "繼續(&&C)",
+                        "enabled": false
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "editor.debug.action.toggleBreakpoint",
+                        "label": "切換中斷點(&&B)"
+                    },
+                    {
+                        "id": "submenuitem.25",
+                        "label": "新增中斷點(&&N)",
+                        "submenu": {
+                            "items": [
+                                {
+                                    "id": "editor.debug.action.conditionalBreakpoint",
+                                    "label": "條件式中斷點(&&C)..."
+                                },
+                                {
+                                    "id": "editor.debug.action.toggleInlineBreakpoint",
+                                    "label": "內嵌中斷點(&&O)"
+                                },
+                                {
+                                    "id": "workbench.debug.viewlet.action.addFunctionBreakpointAction",
+                                    "label": "函式中斷點(&&F)..."
+                                },
+                                {
+                                    "id": "editor.debug.action.addLogPoint",
+                                    "label": "記錄點(&&L)..."
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "workbench.debug.viewlet.action.enableAllBreakpoints",
+                        "label": "啟用所有中斷點(&&E)"
+                    },
+                    {
+                        "id": "workbench.debug.viewlet.action.disableAllBreakpoints",
+                        "label": "停用所有中斷點(&&L)"
+                    },
+                    {
+                        "id": "workbench.debug.viewlet.action.removeAllBreakpoints",
+                        "label": "移除所有中斷點(&&A)"
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "debug.installAdditionalDebuggers",
+                        "label": "安裝其他偵錯工具(&&I)..."
+                    }
+                ]
+            },
+            "Terminal": {
+                "items": [
+                    {
+                        "id": "workbench.action.terminal.new",
+                        "label": "新增終端(&&N)"
+                    },
+                    {
+                        "id": "workbench.action.terminal.split",
+                        "label": "分割終端(&&S)"
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "workbench.action.tasks.runTask",
+                        "label": "執行工作(&&R)..."
+                    },
+                    {
+                        "id": "workbench.action.tasks.build",
+                        "label": "執行組建工作(&&B)..."
+                    },
+                    {
+                        "id": "workbench.action.terminal.runActiveFile",
+                        "label": "執行使用中的檔案(&&A)"
+                    },
+                    {
+                        "id": "workbench.action.terminal.runSelectedText",
+                        "label": "執行選取的文字(&&S)"
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "workbench.action.tasks.showTasks",
+                        "label": "顯示正在執行的工作(&&G)...",
+                        "enabled": false
+                    },
+                    {
+                        "id": "workbench.action.tasks.restartTask",
+                        "label": "重新啟動正在執行的工作(&&E)...",
+                        "enabled": false
+                    },
+                    {
+                        "id": "workbench.action.tasks.terminate",
+                        "label": "終止工作(&&T)...",
+                        "enabled": false
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "workbench.action.tasks.configureTaskRunner",
+                        "label": "設定工作(&&C)..."
+                    },
+                    {
+                        "id": "workbench.action.tasks.configureDefaultBuildTask",
+                        "label": "設定預設組建工作(&&F)..."
+                    }
+                ]
+            },
+            "Help": {
+                "items": [
+                    {
+                        "id": "workbench.action.showWelcomePage",
+                        "label": "歡迎使用(&&W)"
+                    },
+                    {
+                        "id": "workbench.action.showInteractivePlayground",
+                        "label": "互動式遊樂場(&&N)"
+                    },
+                    {
+                        "id": "workbench.action.showGettingStarted",
+                        "label": "使用者入門"
+                    },
+                    {
+                        "id": "workbench.action.openDocumentationUrl",
+                        "label": "文件(&&D)"
+                    },
+                    {
+                        "id": "update.showCurrentReleaseNotes",
+                        "label": "版本資訊(&&R)"
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "workbench.action.keybindingsReference",
+                        "label": "鍵盤快速鍵參考(&&K)"
+                    },
+                    {
+                        "id": "workbench.action.openIntroductoryVideosUrl",
+                        "label": "簡介影片(&&V)"
+                    },
+                    {
+                        "id": "workbench.action.openTipsAndTricksUrl",
+                        "label": "提示與訣竅(&&C)"
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "workbench.action.openTwitterUrl",
+                        "label": "在 Twitter 上加入我們(&&J)"
+                    },
+                    {
+                        "id": "workbench.action.openRequestFeatureUrl",
+                        "label": "搜尋功能要求(&&S)"
+                    },
+                    {
+                        "id": "workbench.action.openIssueReporter",
+                        "label": "回報問題(&&I)"
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "workbench.action.openLicenseUrl",
+                        "label": "檢視授權(&&L)"
+                    },
+                    {
+                        "id": "workbench.action.openPrivacyStatementUrl",
+                        "label": "隱私權聲明(&&Y)"
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "workbench.action.toggleDevTools",
+                        "label": "切換開發人員工具"
+                    },
+                    {
+                        "id": "workbench.action.openProcessExplorer",
+                        "label": "開啟處理程序總管(&&P)"
+                    },
+                    {
+                        "id": "vscode.menubar.separator"
+                    },
+                    {
+                        "id": "workbench.action.showAboutDialog",
+                        "label": "關於(&&A)"
+                    }
+                ]
+            }
+        },
+        "keybindings": {
+            "workbench.action.files.newUntitledFile": {
+                "label": "Ctrl+N",
+                "userSettingsLabel": "ctrl+n"
+            },
+            "workbench.action.newWindow": {
+                "label": "Ctrl+Shift+N",
+                "userSettingsLabel": "ctrl+shift+n"
+            },
+            "workbench.action.files.openFile": {
+                "label": "Ctrl+O",
+                "userSettingsLabel": "ctrl+o"
+            },
+            "workbench.action.files.openFolder": {
+                "label": "Ctrl+K Ctrl+O",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k ctrl+o"
+            },
+            "workbench.action.reopenClosedEditor": {
+                "label": "Ctrl+Shift+T",
+                "userSettingsLabel": "ctrl+shift+t"
+            },
+            "workbench.action.openRecent": {
+                "label": "Ctrl+R",
+                "userSettingsLabel": "ctrl+r"
+            },
+            "workbench.action.files.save": {
+                "label": "Ctrl+S",
+                "userSettingsLabel": "ctrl+s"
+            },
+            "workbench.action.files.saveAs": {
+                "label": "Ctrl+Shift+S",
+                "userSettingsLabel": "ctrl+shift+s"
+            },
+            "workbench.action.openSettings": {
+                "label": "Ctrl+,",
+                "userSettingsLabel": "ctrl+,"
+            },
+            "workbench.view.extensions": {
+                "label": "Ctrl+Shift+X",
+                "userSettingsLabel": "ctrl+shift+x"
+            },
+            "workbench.action.openGlobalKeybindings": {
+                "label": "Ctrl+K Ctrl+S",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k ctrl+s"
+            },
+            "workbench.extensions.action.showRecommendedKeymapExtensions": {
+                "label": "Ctrl+K Ctrl+M",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k ctrl+m"
+            },
+            "workbench.action.selectTheme": {
+                "label": "Ctrl+K Ctrl+T",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k ctrl+t"
+            },
+            "workbench.action.closeActiveEditor": {
+                "label": "Ctrl+W",
+                "userSettingsLabel": "ctrl+w"
+            },
+            "workbench.action.closeFolder": {
+                "label": "Ctrl+K F",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k f"
+            },
+            "workbench.action.closeWindow": {
+                "label": "Ctrl+W",
+                "userSettingsLabel": "ctrl+w"
+            },
+            "workbench.action.quit": {
+                "label": "Ctrl+Q",
+                "userSettingsLabel": "ctrl+q"
+            },
+            "undo": {
+                "label": "Ctrl+Z",
+                "userSettingsLabel": "ctrl+z"
+            },
+            "redo": {
+                "label": "Ctrl+Y",
+                "userSettingsLabel": "ctrl+y"
+            },
+            "editor.action.clipboardCutAction": {
+                "label": "Ctrl+X",
+                "userSettingsLabel": "ctrl+x"
+            },
+            "editor.action.clipboardCopyAction": {
+                "label": "Ctrl+C",
+                "userSettingsLabel": "ctrl+c"
+            },
+            "editor.action.clipboardPasteAction": {
+                "label": "Ctrl+V",
+                "userSettingsLabel": "ctrl+v"
+            },
+            "actions.find": {
+                "label": "Ctrl+F",
+                "userSettingsLabel": "ctrl+f"
+            },
+            "editor.action.startFindReplaceAction": {
+                "label": "Ctrl+H",
+                "userSettingsLabel": "ctrl+h"
+            },
+            "workbench.action.findInFiles": {
+                "label": "Ctrl+Shift+F",
+                "userSettingsLabel": "ctrl+shift+f"
+            },
+            "workbench.action.replaceInFiles": {
+                "label": "Ctrl+Shift+H",
+                "userSettingsLabel": "ctrl+shift+h"
+            },
+            "editor.action.commentLine": {
+                "label": "Ctrl+/",
+                "userSettingsLabel": "ctrl+/"
+            },
+            "editor.action.blockComment": {
+                "label": "Ctrl+Shift+A",
+                "userSettingsLabel": "ctrl+shift+a"
+            },
+            "editor.emmet.action.expandAbbreviation": {
+                "label": "Tab",
+                "userSettingsLabel": "tab"
+            },
+            "editor.action.selectAll": {
+                "label": "Ctrl+A",
+                "userSettingsLabel": "ctrl+a"
+            },
+            "editor.action.smartSelect.expand": {
+                "label": "Shift+Alt+Right",
+                "userSettingsLabel": "shift+alt+right"
+            },
+            "editor.action.smartSelect.shrink": {
+                "label": "Shift+Alt+Left",
+                "userSettingsLabel": "shift+alt+left"
+            },
+            "editor.action.copyLinesUpAction": {
+                "label": "Ctrl+Shift+Alt+Up",
+                "userSettingsLabel": "ctrl+shift+alt+up"
+            },
+            "editor.action.copyLinesDownAction": {
+                "label": "Ctrl+Shift+Alt+Down",
+                "userSettingsLabel": "ctrl+shift+alt+down"
+            },
+            "editor.action.moveLinesUpAction": {
+                "label": "Alt+Up",
+                "userSettingsLabel": "alt+up"
+            },
+            "editor.action.moveLinesDownAction": {
+                "label": "Alt+Down",
+                "userSettingsLabel": "alt+down"
+            },
+            "editor.action.insertCursorAbove": {
+                "label": "Shift+Alt+Up",
+                "userSettingsLabel": "shift+alt+up"
+            },
+            "editor.action.insertCursorBelow": {
+                "label": "Shift+Alt+Down",
+                "userSettingsLabel": "shift+alt+down"
+            },
+            "editor.action.insertCursorAtEndOfEachLineSelected": {
+                "label": "Shift+Alt+I",
+                "userSettingsLabel": "shift+alt+i"
+            },
+            "editor.action.addSelectionToNextFindMatch": {
+                "label": "Ctrl+D",
+                "userSettingsLabel": "ctrl+d"
+            },
+            "editor.action.selectHighlights": {
+                "label": "Ctrl+Shift+L",
+                "userSettingsLabel": "ctrl+shift+l"
+            },
+            "workbench.action.showCommands": {
+                "label": "Ctrl+Shift+P",
+                "userSettingsLabel": "ctrl+shift+p"
+            },
+            "workbench.action.toggleFullScreen": {
+                "label": "F11",
+                "userSettingsLabel": "f11"
+            },
+            "workbench.action.toggleZenMode": {
+                "label": "Ctrl+K Z",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k z"
+            },
+            "workbench.action.toggleSidebarVisibility": {
+                "label": "Ctrl+B",
+                "userSettingsLabel": "ctrl+b"
+            },
+            "workbench.action.togglePanel": {
+                "label": "Ctrl+J",
+                "userSettingsLabel": "ctrl+j"
+            },
+            "workbench.action.zoomIn": {
+                "label": "Ctrl+=",
+                "userSettingsLabel": "ctrl+="
+            },
+            "workbench.action.zoomOut": {
+                "label": "Ctrl+-",
+                "userSettingsLabel": "ctrl+-"
+            },
+            "workbench.action.zoomReset": {
+                "label": "Ctrl+NumPad0",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+numpad0"
+            },
+            "workbench.action.toggleEditorGroupLayout": {
+                "label": "Shift+Alt+0",
+                "userSettingsLabel": "shift+alt+0"
+            },
+            "workbench.view.explorer": {
+                "label": "Ctrl+Shift+E",
+                "userSettingsLabel": "ctrl+shift+e"
+            },
+            "workbench.view.scm": {
+                "label": "Ctrl+Shift+G",
+                "userSettingsLabel": "ctrl+shift+g"
+            },
+            "workbench.view.debug": {
+                "label": "Ctrl+Shift+D",
+                "userSettingsLabel": "ctrl+shift+d"
+            },
+            "workbench.actions.view.problems": {
+                "label": "Ctrl+Shift+M",
+                "userSettingsLabel": "ctrl+shift+m"
+            },
+            "workbench.action.output.toggleOutput": {
+                "label": "Ctrl+K Ctrl+H",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k ctrl+h"
+            },
+            "workbench.debug.action.toggleRepl": {
+                "label": "Ctrl+Shift+Y",
+                "userSettingsLabel": "ctrl+shift+y"
+            },
+            "workbench.action.terminal.toggleTerminal": {
+                "label": "Ctrl+`",
+                "userSettingsLabel": "ctrl+`"
+            },
+            "editor.action.toggleWordWrap": {
+                "label": "Alt+Z",
+                "userSettingsLabel": "alt+z"
+            },
+            "workbench.action.navigateBack": {
+                "label": "Ctrl+Alt+-",
+                "userSettingsLabel": "ctrl+alt+-"
+            },
+            "workbench.action.navigateForward": {
+                "label": "Ctrl+Shift+-",
+                "userSettingsLabel": "ctrl+shift+-"
+            },
+            "workbench.action.navigateToLastEditLocation": {
+                "label": "Ctrl+K Ctrl+Q",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k ctrl+q"
+            },
+            "workbench.action.nextEditor": {
+                "label": "Ctrl+PageDown",
+                "userSettingsLabel": "ctrl+pagedown"
+            },
+            "workbench.action.previousEditor": {
+                "label": "Ctrl+PageUp",
+                "userSettingsLabel": "ctrl+pageup"
+            },
+            "workbench.action.nextEditorInGroup": {
+                "label": "Ctrl+K Ctrl+PageDown",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k ctrl+pagedown"
+            },
+            "workbench.action.previousEditorInGroup": {
+                "label": "Ctrl+K Ctrl+PageUp",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k ctrl+pageup"
+            },
+            "workbench.action.focusFirstEditorGroup": {
+                "label": "Ctrl+1",
+                "userSettingsLabel": "ctrl+1"
+            },
+            "workbench.action.focusSecondEditorGroup": {
+                "label": "Ctrl+2",
+                "userSettingsLabel": "ctrl+2"
+            },
+            "workbench.action.focusThirdEditorGroup": {
+                "label": "Ctrl+3",
+                "userSettingsLabel": "ctrl+3"
+            },
+            "workbench.action.focusFourthEditorGroup": {
+                "label": "Ctrl+4",
+                "userSettingsLabel": "ctrl+4"
+            },
+            "workbench.action.focusFifthEditorGroup": {
+                "label": "Ctrl+5",
+                "userSettingsLabel": "ctrl+5"
+            },
+            "workbench.action.focusLeftGroup": {
+                "label": "Ctrl+K Ctrl+LeftArrow",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k ctrl+left"
+            },
+            "workbench.action.focusRightGroup": {
+                "label": "Ctrl+K Ctrl+RightArrow",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k ctrl+right"
+            },
+            "workbench.action.focusAboveGroup": {
+                "label": "Ctrl+K Ctrl+UpArrow",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k ctrl+up"
+            },
+            "workbench.action.focusBelowGroup": {
+                "label": "Ctrl+K Ctrl+DownArrow",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k ctrl+down"
+            },
+            "workbench.action.quickOpen": {
+                "label": "Ctrl+P",
+                "userSettingsLabel": "ctrl+p"
+            },
+            "workbench.action.showAllSymbols": {
+                "label": "Ctrl+T",
+                "userSettingsLabel": "ctrl+t"
+            },
+            "workbench.action.gotoSymbol": {
+                "label": "Ctrl+Shift+O",
+                "userSettingsLabel": "ctrl+shift+o"
+            },
+            "editor.action.revealDefinition": {
+                "label": "F12",
+                "userSettingsLabel": "f12"
+            },
+            "editor.action.goToImplementation": {
+                "label": "Ctrl+F12",
+                "userSettingsLabel": "ctrl+f12"
+            },
+            "editor.action.goToReferences": {
+                "label": "Shift+F12",
+                "userSettingsLabel": "shift+f12"
+            },
+            "workbench.action.gotoLine": {
+                "label": "Ctrl+G",
+                "userSettingsLabel": "ctrl+g"
+            },
+            "editor.action.jumpToBracket": {
+                "label": "Ctrl+Shift+\\",
+                "userSettingsLabel": "ctrl+shift+\\"
+            },
+            "editor.action.marker.nextInFiles": {
+                "label": "F8",
+                "userSettingsLabel": "f8"
+            },
+            "editor.action.marker.prevInFiles": {
+                "label": "Shift+F8",
+                "userSettingsLabel": "shift+f8"
+            },
+            "editor.action.dirtydiff.next": {
+                "label": "Alt+F3",
+                "userSettingsLabel": "alt+f3"
+            },
+            "editor.action.dirtydiff.previous": {
+                "label": "Shift+Alt+F3",
+                "userSettingsLabel": "shift+alt+f3"
+            },
+            "workbench.action.debug.start": {
+                "label": "F5",
+                "userSettingsLabel": "f5"
+            },
+            "workbench.action.debug.run": {
+                "label": "Ctrl+F5",
+                "userSettingsLabel": "ctrl+f5"
+            },
+            "workbench.action.debug.stop": {
+                "label": "Shift+F5",
+                "userSettingsLabel": "shift+f5"
+            },
+            "workbench.action.debug.restart": {
+                "label": "Ctrl+Shift+F5",
+                "userSettingsLabel": "ctrl+shift+f5"
+            },
+            "workbench.action.debug.stepOver": {
+                "label": "F10",
+                "userSettingsLabel": "f10"
+            },
+            "workbench.action.debug.stepInto": {
+                "label": "F11",
+                "userSettingsLabel": "f11"
+            },
+            "workbench.action.debug.stepOut": {
+                "label": "Shift+F11",
+                "userSettingsLabel": "shift+f11"
+            },
+            "workbench.action.debug.continue": {
+                "label": "F5",
+                "userSettingsLabel": "f5"
+            },
+            "editor.debug.action.toggleBreakpoint": {
+                "label": "F9",
+                "userSettingsLabel": "f9"
+            },
+            "editor.debug.action.toggleInlineBreakpoint": {
+                "label": "Shift+F9",
+                "userSettingsLabel": "shift+f9"
+            },
+            "workbench.action.terminal.new": {
+                "label": "Ctrl+Shift+`",
+                "userSettingsLabel": "ctrl+shift+`"
+            },
+            "workbench.action.terminal.split": {
+                "label": "Ctrl+Shift+5",
+                "userSettingsLabel": "ctrl+shift+5"
+            },
+            "workbench.action.tasks.build": {
+                "label": "Ctrl+Shift+B",
+                "userSettingsLabel": "ctrl+shift+b"
+            },
+            "workbench.action.keybindingsReference": {
+                "label": "Ctrl+K Ctrl+R",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k ctrl+r"
+            },
+            "workbench.action.toggleDevTools": {
+                "label": "Ctrl+Shift+I",
+                "userSettingsLabel": "ctrl+shift+i"
+            }
+        }
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/charles/Nginx/achen",
+            "backupPath": "/home/charles/Nginx/achen/Backups/c1d9996435413b25b76301eb6e6f442c",
+            "uiState": {
+                "mode": 1,
+                "x": 769,
+                "y": 64,
+                "width": 1659,
+                "height": 998
+            }
+        },
+        "openedWindows": []
+    },
+    "pickerWorkingDir": "/home/charles/文件/achen/Sales/SalesRecord"
+}

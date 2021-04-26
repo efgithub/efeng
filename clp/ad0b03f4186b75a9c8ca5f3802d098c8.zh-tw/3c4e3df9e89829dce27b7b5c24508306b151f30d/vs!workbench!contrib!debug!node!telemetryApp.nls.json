@@ -1,0 +1,1 @@
+{"vs/base/node/processes":["無法在 UNC 磁碟機上執行殼層命令。"],"vs/platform/configuration/common/configurationRegistry":["預設語言組態覆寫","設定要針對 {0} 語言覆寫的設定。","設定要針對語言覆寫的編輯器設定。","這個設定不支援以語言為根據的組態。","無法註冊空白屬性","無法註冊 '{0}'。這符合用於描述語言專用編輯器設定的屬性模式 '\\\\[.*\\\\]$'。請使用 'configurationDefaults' 貢獻。","無法註冊 '{0}'。此屬性已經註冊。"]}
